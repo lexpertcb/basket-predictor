@@ -110,3 +110,4 @@ if selected_league:
 
         except Exception as e:
             st.error(f"Erreur : {e}")
+            
